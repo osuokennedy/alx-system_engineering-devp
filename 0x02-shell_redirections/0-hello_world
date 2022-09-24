@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "\"Wello, World "
+echo "\"Wello, World "
